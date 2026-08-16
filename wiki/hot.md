@@ -14,12 +14,14 @@ confidence: medium
 ## Last session (2026-08-16)
 
 - Cloned shannhk/llm-wikid to `~/vaults/my-wikid`.
-- Seeded the vault with three sources (Karpathy 2025 tweet, repo README,
-  repo CLAUDE.md), three concepts (LLM Wiki pattern, Pre-compiled RAG,
-  Validation Gate), two entities (Karpathy, shannhk), and one synthesis.
+- Seeded: 3 sources (Karpathy tweet, repo README, repo CLAUDE.md),
+  9 concepts (LLM Wiki pattern, llm-wikid, pre-compiled RAG, RAG,
+  validation gate, bias check, source resolution, obsidian, qmd),
+  2 entities (Karpathy stub, shannhk), 1 synthesis.
 - All AI-created pages set `explored: false` per the validation gate.
-- Seeded on topic = the LLM Wiki pattern itself, so the wiki is
-  self-documenting from session 1.
+- Installed qmd 0.9.0 + bun; embedded 23 chunks; BM25 search verified.
+- Set `origin` to user's GitHub repo. **Push blocked**: no GitHub
+  creds in this sandbox. User must run the push command below.
 
 ## Recent decisions
 
@@ -27,9 +29,14 @@ confidence: medium
 - Use `curl` for raw GitHub endpoints (works without a search backend).
 - Keep the Karpathy entity as a stub (single source) per the schema's
   page-creation threshold.
+- qmd `query` is slow on CPU (~3-5 min cold startup for the 1.7B
+  reranker). BM25 search (`qmd search`) is instant. Use BM25 by
+  default; only use `query` when reranking matters.
 
 ## Open threads
 
+- **Push to GitHub**: user needs to run the push command listed in
+  the session reply.
 - Need a Hermes-side equivalent of the upstream Stop hook that
   regenerates `wiki/hot.md` via `claude -p`.
 - The schema's `> [!contradiction]` callouts are unused so far —

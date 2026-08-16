@@ -38,13 +38,13 @@ _Scan TLDRs to find relevant pages. Load full pages only when needed._
 
 - [[llm-wikid-seed-synthesis]] — How the three seed sources (Karpathy, README, CLAUDE.md) prescribe a single operating doctrine.
 
+## SOPs
+
+- [[AGENT-ONBOARDING]] — Paste-ready setup for paperclip/holycode: clone, install qmd, index, expose MCP, wire schema into every agent.
+
 ## Outputs
 
 _No outputs yet. Run `/wiki-query` to ask a question._
-
-## SOPs
-
-_No SOPs yet._
 
 ## Projects
 

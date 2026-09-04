@@ -6,7 +6,7 @@ date_modified: 2026-08-16
 type: concept
 tags: [repo, obsidian, vault, llm-wiki]
 sources: ["[[shannhk-2026-llm-wikid-readme]]", "[[shannhk-2026-llm-wikid-claude-schema]]"]
-explored: false
+explored: true
 confidence: high
 ---
 

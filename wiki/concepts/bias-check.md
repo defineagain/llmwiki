@@ -6,7 +6,7 @@ date_modified: 2026-08-16
 type: concept
 tags: [schema, discipline, governance]
 sources: []
-explored: false
+explored: true
 confidence: low
 ---
 

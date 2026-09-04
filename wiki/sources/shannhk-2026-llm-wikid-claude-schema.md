@@ -8,7 +8,7 @@ tags: [shannhk, llm-wikid, schema, claude-md, contract]
 source_type: article
 source_file: "[[raw/articles/shannhk-2026-llm-wikid-claude-schema.md]]"
 original_url: "https://raw.githubusercontent.com/shannhk/llm-wikid/main/CLAUDE.md"
-explored: false
+explored: true
 confidence: high
 ---
 

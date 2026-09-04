@@ -8,7 +8,7 @@ tags: [karpathy, llm-wiki, pattern, rgs]
 source_type: tweet
 source_file: "[[raw/articles/karpathy-2025-llm-wiki-tweet.md]]"
 original_url: "https://x.com/karpathy/status/1890540708772143562"
-explored: false
+explored: true
 confidence: high
 ---
 

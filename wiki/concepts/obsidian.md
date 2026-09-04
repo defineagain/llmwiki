@@ -6,7 +6,7 @@ date_modified: 2026-08-16
 type: concept
 tags: [tool, editor, knowledge-base]
 sources: []
-explored: false
+explored: true
 confidence: low
 ---
 
@@ -26,3 +26,5 @@ without modification.
 
 - No full page here yet — promote to a full page when a second
   source discusses Obsidian.
+
+Related: [[llm-wikid]] (the vault format), [[qmd]] (search layer on top).

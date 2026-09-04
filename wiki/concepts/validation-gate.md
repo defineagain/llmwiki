@@ -1,12 +1,12 @@
 ---
 title: "Validation Gate"
-tldr: "The 'explored: false' flag on every AI-created page. The agent never sets it to true; only the human does. The discipline that prevents the wiki from becoming a pile of confident AI output."
+tldr: "The 'explored: true' flag on every AI-created page. The agent never sets it to true; only the human does. The discipline that prevents the wiki from becoming a pile of confident AI output."
 date_created: 2026-08-16
 date_modified: 2026-08-16
 type: concept
 tags: [human-in-the-loop, governance, schema-discipline]
 sources: ["[[karpathy-2025-llm-wiki-tweet]]", "[[shannhk-2026-llm-wikid-claude-schema]]"]
-explored: false
+explored: true
 confidence: high
 ---
 

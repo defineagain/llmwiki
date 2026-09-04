@@ -6,7 +6,7 @@ date_modified: 2026-08-16
 type: sop
 tags: [agent-onboarding, holycode, paperclip, qmd, mcp]
 sources: ["[[shannhk-2026-llm-wikid-claude-schema]]"]
-explored: false
+explored: true
 confidence: medium
 ---
 

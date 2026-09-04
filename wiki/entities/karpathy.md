@@ -6,7 +6,7 @@ date_modified: 2026-08-16
 type: entity
 tags: [person, ai-researcher, openai, tesla]
 sources: ["[[karpathy-2025-llm-wiki-tweet]]"]
-explored: false
+explored: true
 confidence: high
 ---
 

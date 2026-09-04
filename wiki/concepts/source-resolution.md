@@ -6,7 +6,7 @@ date_modified: 2026-08-16
 type: concept
 tags: [ingest, toolchain, schema]
 sources: []
-explored: false
+explored: true
 confidence: low
 ---
 
@@ -32,3 +32,5 @@ The resolved content is written in place to `raw/`, with `original_url`,
 
 - No full page here yet — promote to a full page when a second
   source discusses source resolution.
+
+Related: [[llm-wikid]], [[rag]], [[validation-gate]] - source-resolution feeds the [[llm-wiki-pattern]] pipeline.

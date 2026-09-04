@@ -8,7 +8,7 @@ tags: [shannhk, llm-wikid, obsidian, vault, schema]
 source_type: article
 source_file: "[[raw/articles/shannhk-2026-llm-wikid-readme.md]]"
 original_url: "https://github.com/shannhk/llm-wikid"
-explored: false
+explored: true
 confidence: high
 ---
 

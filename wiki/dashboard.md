@@ -3,7 +3,7 @@ title: "Wiki Dashboard"
 tldr: "Dataview dashboard for browsing wiki stats and recent activity"
 date_created: {{date}}
 date_modified: {{date}}
-explored: false
+explored: true
 confidence: medium
 ---
 

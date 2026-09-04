@@ -3,7 +3,7 @@ title: "Wiki Index"
 tldr: "Master catalog of all wiki pages with TLDRs for fast scanning"
 date_created: 2026-08-16
 date_modified: 2026-08-16
-explored: false
+explored: true
 confidence: medium
 ---
 

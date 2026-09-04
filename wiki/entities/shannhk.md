@@ -6,7 +6,7 @@ date_modified: 2026-08-16
 type: entity
 tags: [person, maintainer, llm-wikid, obsidian]
 sources: ["[[shannhk-2026-llm-wikid-readme]]", "[[shannhk-2026-llm-wikid-claude-schema]]"]
-explored: false
+explored: true
 confidence: medium
 ---
 

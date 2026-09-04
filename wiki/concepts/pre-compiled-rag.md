@@ -6,7 +6,7 @@ date_modified: 2026-08-16
 type: concept
 tags: [rag, architecture, knowledge-base]
 sources: ["[[karpathy-2025-llm-wiki-tweet]]", "[[shannhk-2026-llm-wikid-claude-schema]]"]
-explored: false
+explored: true
 confidence: medium
 ---
 
